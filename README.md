@@ -12,7 +12,5 @@ Este repositorio corresponde a la **entrega final del proyecto**, desarrollada c
 | ⚛️ **Uso de React y Vite** | Configuración correcta del entorno con scripts funcionales (`dev`, `build`, `preview`). | ✅ |
 | 🎨 **Diseño funcional y visual** | Interfaz implementada con estilos coherentes y navegación funcional. | ✅ |
 | 💾 **Repositorio GitHub** | Proyecto versionado y publicado en GitHub con commits organizados. | ✅ |
-| 🌐 **Despliegue** | Configuración y publicación en GitHub Pages mediante `gh-pages` y `vite.config.js`. | ✅ |
-| 📝 **Documentación** | Instrucciones claras de instalación, ejecución y despliegue incluidas en este README. | ✅ |
 
 ---
